@@ -8,5 +8,5 @@
 {"id":"ultimateDeckImporter","name":"UltimateDeckImporter","description":"imports and exports and share decks","version":2,"versionCode":"1.5","downloads":42},
 {"id":"tradesearch","name":"TradeSearch","description":"better searchbar for trading window etc","version":4,"versionCode":"1.4","downloads":42},
 {"id":"statsmanager","name":"StatsManager","description":"everyone love stats","version":2,"versionCode":"1.1","downloads":42},
-{"id":"buymanager","name":"BuyManager","description":"buy single/packs/explorers or sell scrolls fast","version":5,"versionCode":"1.5","downloads":42}
+{"id":"buymanager","name":"BuyManager","description":"buy single/packs/explorers or sell scrolls fast","version":6,"versionCode":"1.6","downloads":42}
 ]}
