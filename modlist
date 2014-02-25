@@ -1,0 +1,12 @@
+{"msg":"success","data":[
+{"id":"Betterchat","name":"BetterChat","description":"click+copy links + scrolls","version":5,"versionCode":"1.5","downloads":42},
+{"id":"Auction","name":"not an Auction House","description":"makes trading easier","version":13,"versionCode":"3.0","downloads":42},
+{"id":"enchmouseover","name":"enchmouseover","description":"mouse over units to see enchantsments","version":5,"versionCode":"1.5","downloads":42},
+{"id":"GameReplay","name":"GameReplay","description":"replay functions","version":7,"versionCode":"1.7","downloads":42},
+{"id":"guildchat","name":"GuildChat","description":"a guild ui","version":4,"versionCode":"1.5","downloads":42},
+{"id":"textchanger","name":"TranslationTool","description":"translating the cards","version":10,"versionCode":"1.10","downloads":42},
+{"id":"ultimateDeckImporter","name":"UltimateDeckImporter","description":"imports and exports and share decks","version":2,"versionCode":"1.5","downloads":42},
+{"id":"tradesearch","name":"TradeSearch","description":"better searchbar for trading window etc","version":4,"versionCode":"1.4","downloads":42},
+{"id":"statsmanager","name":"StatsManager","description":"everyone love stats","version":2,"versionCode":"1.1","downloads":42},
+{"id":"buymanager","name":"BuyManager","description":"buy single/packs/explorers or sell scrolls fast","version":5,"versionCode":"1.5","downloads":42}
+]}
